@@ -1,0 +1,36 @@
+[
+    {
+        "id": "R0806004",
+        "name":"XXX",
+        "time": "day",
+        "mac": "12345678123412341234123456789012",
+        "validityperiod": "110/6/30",
+        "door": [
+            "door1",
+            "door2",
+            "door3"
+        ]
+    },
+    {
+        "id": "R0806004",
+        "name":"XXX",
+        "time": "night",
+        "mac": "12345678123412341234123456789012",
+        "validityperiod": "110/6/30",
+        "door": [
+            "door1",
+            "door2"
+        ]
+    },
+    {
+        "id": "R1234567",
+        "name":"XXX",
+        "time": "all",
+        "mac": "12345678123412341234123456789012",
+        "validityperiod": "110/6/30",
+        "door": [
+            "door2",
+            "door3"
+        ]
+    }
+]
